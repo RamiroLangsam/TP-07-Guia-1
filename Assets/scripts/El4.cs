@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Cálculos : MonoBehaviour
+public class El4 : MonoBehaviour
 {
-    public float num1;
-    public float num2;
+    public float num1 ;
+    public float num2 ;
 
     void Start()
     {
